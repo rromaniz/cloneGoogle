@@ -12,7 +12,7 @@ Una practica que busca replicar el sitio buscador de Google utilizando HTML Y CS
 * **Rigoberto Romaniz** - [rromaniz](https://github.com/rromaniz)
 
 
-## Preview 🚀
+## DEMO 🚀
 
+[DEMO](https://rromaniz.github.io/clonegoogle/)
 
-![alt text](https://i0.wp.com/www.ofisoft.net/wp-content/uploads/2020/11/ofisoft_google_cambio_mayo_2021.jpg?w=837&ssl=1)
